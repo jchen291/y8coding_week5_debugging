@@ -9,3 +9,5 @@ print("So, aside from", var, "and", var, "Is there anywhere else you've lived?")
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+
+### if you use the same variabe for both of them, it will output the same one for both of them.  logical error

@@ -7,3 +7,5 @@ print)"OK let's go!"(
 ### DISCUSS HERE:
 ###
 ### Was this a... syntax, logical or runtime error?
+
+### syntax because the brackets were the wrong way round
